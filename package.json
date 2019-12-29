@@ -22,7 +22,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://Kim-Jeong-Seok/github.io/react_test",
+  "homepage": "https://Kim-Jeong-Seok.github.io/react_test",
   "browserslist": {
     "production": [
       ">0.2%",
