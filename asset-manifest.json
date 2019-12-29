@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kim-Jeong-Seok/react_test/static/css/main.9486abdb.chunk.css",
+    "main.js": "/Kim-Jeong-Seok/react_test/static/js/main.df34ffc0.chunk.js",
+    "main.js.map": "/Kim-Jeong-Seok/react_test/static/js/main.df34ffc0.chunk.js.map",
+    "runtime-main.js": "/Kim-Jeong-Seok/react_test/static/js/runtime-main.f0d3fb52.js",
+    "runtime-main.js.map": "/Kim-Jeong-Seok/react_test/static/js/runtime-main.f0d3fb52.js.map",
+    "static/js/2.3d4576e6.chunk.js": "/Kim-Jeong-Seok/react_test/static/js/2.3d4576e6.chunk.js",
+    "static/js/2.3d4576e6.chunk.js.map": "/Kim-Jeong-Seok/react_test/static/js/2.3d4576e6.chunk.js.map",
+    "index.html": "/Kim-Jeong-Seok/react_test/index.html",
+    "precache-manifest.34a05841933764e7676f079b4e7ac9ef.js": "/Kim-Jeong-Seok/react_test/precache-manifest.34a05841933764e7676f079b4e7ac9ef.js",
+    "service-worker.js": "/Kim-Jeong-Seok/react_test/service-worker.js",
+    "static/css/main.9486abdb.chunk.css.map": "/Kim-Jeong-Seok/react_test/static/css/main.9486abdb.chunk.css.map",
+    "static/js/2.3d4576e6.chunk.js.LICENSE": "/Kim-Jeong-Seok/react_test/static/js/2.3d4576e6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0d3fb52.js",
+    "static/js/2.3d4576e6.chunk.js",
+    "static/css/main.9486abdb.chunk.css",
+    "static/js/main.df34ffc0.chunk.js"
+  ]
+}
